@@ -7,7 +7,7 @@ clear
 pkg install figlet
 clear
 figlet -f slant ' Moreno77' | lolcat
-echo " [!] Tools By : Moreno77" | lolcat
-echo " [!] Youtube.com/c/DarkCurut08" | lolcat
-echo " [!] 085606753071 / 083113611267" | lolcat
+echo " [!] Tools By : roy404" | lolcat
+echo " [!] Youtube.com/c/assassin" | lolcat
+echo " [!] 085713709682 / 081227708390" | lolcat
 echo " [!] THX " | lolcat
